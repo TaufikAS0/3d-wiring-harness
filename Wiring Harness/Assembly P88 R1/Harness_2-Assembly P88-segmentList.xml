@@ -1,0 +1,1371 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='20'>
+        <properties>
+            <Name value='GND@003092032 Molex Power Female 3P-1@Harness_2-Assembly P88:JP922@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP922'/>
+            <Length value='0.028378'/>
+            <AdditionalLength value='0.033378'/>
+            <FromLocation value='1.255132,0.619305,2.098322'/>
+            <ToLocation value='1.248403,0.621807,2.124703'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='46'>
+        <properties>
+            <Name value='IN PWR@0039013023 Molex Male 2P-2@Harness_2-Assembly P88:JP897@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP897'/>
+            <Length value='0.018857'/>
+            <AdditionalLength value='0.023857'/>
+            <FromLocation value='1.432459,1.018877,2.020487'/>
+            <ToLocation value='1.432494,1.037427,2.018872'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='53'>
+        <properties>
+            <Name value='IN PWR@0039013023 Molex Male 2P-1@Harness_2-Assembly P88:JP879@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP879'/>
+            <Length value='0.019348'/>
+            <AdditionalLength value='0.024348'/>
+            <FromLocation value='1.432954,1.674882,2.085996'/>
+            <ToLocation value='1.432838,1.693911,2.084177'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='76'>
+        <properties>
+            <Name value='0V@039012020 Molex Female 2P-2@Harness_2-Assembly P88:JP305@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP929'/>
+            <Length value='0.009841'/>
+            <AdditionalLength value='0.014841'/>
+            <FromLocation value='1.432959,1.650670,2.081909'/>
+            <ToLocation value='1.432836,1.641034,2.083413'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='121'>
+        <properties>
+            <Name value='D1@039012040 Molex Female 4P-3@Harness_2-Assembly P88:JP855@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP855'/>
+            <Length value='0.018492'/>
+            <AdditionalLength value='0.023492'/>
+            <FromLocation value='1.336281,1.820269,1.995430'/>
+            <ToLocation value='1.330570,1.820465,2.012127'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='126'>
+        <properties>
+            <Name value='CPoint1@ring_term_awg-14-16_awg-x 8-2@Harness_2-Assembly P88:JP25@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP871'/>
+            <Length value='0.043054'/>
+            <AdditionalLength value='0.053054'/>
+            <FromLocation value='1.465936,1.838998,2.075138'/>
+            <ToLocation value='1.435794,1.820807,2.075478'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='146'>
+        <properties>
+            <Name value='0V@039012020 Molex Female 2P-3@Harness_2-Assembly P88:JP920@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP920'/>
+            <Length value='0.011790'/>
+            <AdditionalLength value='0.016790'/>
+            <FromLocation value='1.432451,0.994601,2.016338'/>
+            <ToLocation value='1.432252,0.984677,2.020668'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='171'>
+        <properties>
+            <Name value='A+@430251400 Molex Female Micro Fit 14P-4@Harness_2-Assembly P88:JP857@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='7'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP857'/>
+            <Length value='0.025255'/>
+            <AdditionalLength value='0.030255'/>
+            <FromLocation value='1.240275,1.827905,2.131731'/>
+            <ToLocation value='1.252230,1.831270,2.111733'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='172'>
+        <properties>
+            <Name value='COM@430251400 Molex Female Micro Fit 14P-4@Harness_2-Assembly P88:JP857@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='6'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP857'/>
+            <Length value='0.023177'/>
+            <AdditionalLength value='0.028177'/>
+            <FromLocation value='1.243275,1.827905,2.131731'/>
+            <ToLocation value='1.252230,1.831270,2.111733'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='173'>
+        <properties>
+            <Name value='B-@430251400 Molex Female Micro Fit 14P-4@Harness_2-Assembly P88:JP857@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='5'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP857'/>
+            <Length value='0.021977'/>
+            <AdditionalLength value='0.026977'/>
+            <FromLocation value='1.246275,1.827905,2.131731'/>
+            <ToLocation value='1.252230,1.831270,2.111733'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='174'>
+        <properties>
+            <Name value='IN PWR@430251400 Molex Female Micro Fit 14P-4@Harness_2-Assembly P88:JP857@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='14'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP857'/>
+            <Length value='0.024901'/>
+            <AdditionalLength value='0.029901'/>
+            <FromLocation value='1.240275,1.830905,2.131731'/>
+            <ToLocation value='1.252230,1.831270,2.111733'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='175'>
+        <properties>
+            <Name value='GND PWR@430251400 Molex Female Micro Fit 14P-4@Harness_2-Assembly P88:JP857@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='13'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP857'/>
+            <Length value='0.022903'/>
+            <AdditionalLength value='0.027903'/>
+            <FromLocation value='1.243275,1.830905,2.131731'/>
+            <ToLocation value='1.252230,1.831270,2.111733'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='177'>
+        <properties>
+            <Name value='D1@430251400 Molex Female Micro Fit 14P-4@Harness_2-Assembly P88:JP857@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='9'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP857'/>
+            <Length value='0.020402'/>
+            <AdditionalLength value='0.025402'/>
+            <FromLocation value='1.255275,1.830905,2.131731'/>
+            <ToLocation value='1.252230,1.831270,2.111733'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='179'>
+        <properties>
+            <Name value='IN+1@430251400 Molex Female Micro Fit 14P-4@Harness_2-Assembly P88:JP857@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP857'/>
+            <Length value='0.020881'/>
+            <AdditionalLength value='0.025881'/>
+            <FromLocation value='1.255275,1.827905,2.131731'/>
+            <ToLocation value='1.252230,1.831270,2.111733'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='204'>
+        <properties>
+            <Name value='D0@039013043 Molex Male 4P-1@Harness_2-Assembly P88:JP865@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='4'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP865'/>
+            <Length value='0.026501'/>
+            <AdditionalLength value='0.031501'/>
+            <FromLocation value='1.332074,1.820410,1.971272'/>
+            <ToLocation value='1.334922,1.824608,1.946210'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='207'>
+        <properties>
+            <Name value='GND@039012040 Molex Female 4P-3@Harness_2-Assembly P88:JP855@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP855'/>
+            <Length value='0.017710'/>
+            <AdditionalLength value='0.022710'/>
+            <FromLocation value='1.332081,1.824469,1.995430'/>
+            <ToLocation value='1.330570,1.820465,2.012127'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='208'>
+        <properties>
+            <Name value='D1@039013043 Molex Male 4P-1@Harness_2-Assembly P88:JP865@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP865'/>
+            <Length value='0.026004'/>
+            <AdditionalLength value='0.031004'/>
+            <FromLocation value='1.336274,1.820410,1.971272'/>
+            <ToLocation value='1.334922,1.824608,1.946210'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='212'>
+        <properties>
+            <Name value='D0@430251400 Molex Female Micro Fit 14P-4@Harness_2-Assembly P88:JP857@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='10'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP857'/>
+            <Length value='0.020005'/>
+            <AdditionalLength value='0.025005'/>
+            <FromLocation value='1.252275,1.830905,2.131731'/>
+            <ToLocation value='1.252230,1.831270,2.111733'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='224'>
+        <properties>
+            <Name value='COM@Amphenol LTW Circular Male 4P M12A-04BMMB-SL7002-6@Harness_2-Assembly P88:JP875@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='5'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP875'/>
+            <Length value='0.014793'/>
+            <AdditionalLength value='0.019793'/>
+            <FromLocation value='1.423347,1.705330,2.059400'/>
+            <ToLocation value='1.422924,1.719944,2.061034'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='225'>
+        <properties>
+            <Name value='A+@Amphenol LTW Circular Male 4P M12A-04BMMB-SL7002-6@Harness_2-Assembly P88:JP875@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='4'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP875'/>
+            <Length value='0.016000'/>
+            <AdditionalLength value='0.021000'/>
+            <FromLocation value='1.426847,1.705330,2.062900'/>
+            <ToLocation value='1.422924,1.719944,2.061034'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='228'>
+        <properties>
+            <Name value='B-@Amphenol LTW Circular Female 4P M12A-04BFFB-SL7001-8@Harness_2-Assembly P88:JP886@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP886'/>
+            <Length value='0.017134'/>
+            <AdditionalLength value='0.022134'/>
+            <FromLocation value='1.426834,1.635909,2.059147'/>
+            <ToLocation value='1.423346,1.619554,2.061028'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='230'>
+        <properties>
+            <Name value='A+@Amphenol LTW Circular Male 4P M12A-04BMMB-SL7002-4@Harness_2-Assembly P88:JP885@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='4'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP885'/>
+            <Length value='0.012925'/>
+            <AdditionalLength value='0.017925'/>
+            <FromLocation value='1.434068,1.039655,2.040773'/>
+            <ToLocation value='1.434062,1.052371,2.039131'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='232'>
+        <properties>
+            <Name value='COM@Amphenol LTW Circular Male 4P M12A-04BMMB-SL7002-4@Harness_2-Assembly P88:JP885@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='5'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP885'/>
+            <Length value='0.014095'/>
+            <AdditionalLength value='0.019095'/>
+            <FromLocation value='1.430568,1.039655,2.037273'/>
+            <ToLocation value='1.434062,1.052371,2.039131'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='234'>
+        <properties>
+            <Name value='A+@Amphenol LTW Circular Female 4P M12A-04BFFB-SL7001-6@Harness_2-Assembly P88:JP909@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP909'/>
+            <Length value='0.018337'/>
+            <AdditionalLength value='0.023337'/>
+            <FromLocation value='1.433982,0.970502,2.041182'/>
+            <ToLocation value='1.430473,0.953552,2.037686'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='247'>
+        <properties>
+            <Name value='COM@Amphenol LTW Circular Female 4P M12A-04BFFB-SL7001-6@Harness_2-Assembly P88:JP909@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='4'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP909'/>
+            <Length value='0.016950'/>
+            <AdditionalLength value='0.021950'/>
+            <FromLocation value='1.430482,0.970502,2.037682'/>
+            <ToLocation value='1.430473,0.953552,2.037686'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='250'>
+        <properties>
+            <Name value='F@003092032 Molex Power Female 3P-1@Harness_2-Assembly P88:JP922@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP922'/>
+            <Length value='0.027187'/>
+            <AdditionalLength value='0.032187'/>
+            <FromLocation value='1.245074,0.619305,2.098322'/>
+            <ToLocation value='1.248403,0.621807,2.124703'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='255'>
+        <properties>
+            <Name value='CPoint1@Box Power Assembly-1@Harness_2-Assembly P88/electric_component-1@Box Power Assembly:JP927@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP927'/>
+            <Length value='0.381825'/>
+            <AdditionalLength value='0.386825'/>
+            <FromLocation value='1.418156,0.703411,2.123143'/>
+            <ToLocation value='1.514869,0.640689,1.776825'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.009000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='261'>
+        <properties>
+            <Name value='F@003091032 Molex Powe Male 3P-2@Harness_2-Assembly P88:JP923@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP923'/>
+            <Length value='0.023844'/>
+            <AdditionalLength value='0.028844'/>
+            <FromLocation value='1.245073,0.619462,2.076949'/>
+            <ToLocation value='1.250218,0.619909,2.055020'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='266'>
+        <properties>
+            <Name value='12V@039014031 Molex Female 3P Putih-1@Harness_2-Assembly P88:JP882@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP882'/>
+            <Length value='0.009625'/>
+            <AdditionalLength value='0.014625'/>
+            <FromLocation value='1.456041,1.671647,2.061581'/>
+            <ToLocation value='1.451744,1.679689,2.061564'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='267'>
+        <properties>
+            <Name value='GND@039014031 Molex Female 3P Putih-1@Harness_2-Assembly P88:JP882@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP882'/>
+            <Length value='0.008043'/>
+            <AdditionalLength value='0.013043'/>
+            <FromLocation value='1.451841,1.671647,2.061581'/>
+            <ToLocation value='1.451744,1.679689,2.061564'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='272'>
+        <properties>
+            <Name value='IN+2@430251400 Molex Female Micro Fit 14P-4@Harness_2-Assembly P88:JP857@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='4'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP857'/>
+            <Length value='0.020857'/>
+            <AdditionalLength value='0.025857'/>
+            <FromLocation value='1.249275,1.827905,2.131731'/>
+            <ToLocation value='1.252230,1.831270,2.111733'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='273'>
+        <properties>
+            <Name value='JP855@Harness_2-Assembly P88:VCC@039012040 Molex Female 4P-3@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP855'/>
+            <Length value='0.019336'/>
+            <AdditionalLength value='0.024336'/>
+            <FromLocation value='1.336281,1.824469,1.995430'/>
+            <ToLocation value='1.330570,1.820465,2.012127'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='274'>
+        <properties>
+            <Name value='JP865@Harness_2-Assembly P88:VCC@039013043 Molex Male 4P-1@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP865'/>
+            <Length value='0.025164'/>
+            <AdditionalLength value='0.030164'/>
+            <FromLocation value='1.336274,1.824610,1.971272'/>
+            <ToLocation value='1.334922,1.824608,1.946210'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='275'>
+        <properties>
+            <Name value='B-@Amphenol LTW Circular Male 4P M12A-04BMMB-SL7002-6@Harness_2-Assembly P88:JP875@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP875'/>
+            <Length value='0.014874'/>
+            <AdditionalLength value='0.019874'/>
+            <FromLocation value='1.423347,1.705330,2.062900'/>
+            <ToLocation value='1.422924,1.719944,2.061034'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='276'>
+        <properties>
+            <Name value='GND@0039013023 Molex Male 2P-1@Harness_2-Assembly P88:JP879@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP879'/>
+            <Length value='0.019277'/>
+            <AdditionalLength value='0.024277'/>
+            <FromLocation value='1.432954,1.674882,2.081896'/>
+            <ToLocation value='1.432838,1.693911,2.084177'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='277'>
+        <properties>
+            <Name value='DO@039014031 Molex Female 3P Putih-1@Harness_2-Assembly P88:JP882@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP882'/>
+            <Length value='0.009321'/>
+            <AdditionalLength value='0.014321'/>
+            <FromLocation value='1.447641,1.671647,2.061581'/>
+            <ToLocation value='1.451744,1.679689,2.061564'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='278'>
+        <properties>
+            <Name value='A+@Amphenol LTW Circular Female 4P M12A-04BFFB-SL7001-8@Harness_2-Assembly P88:JP886@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP886'/>
+            <Length value='0.017093'/>
+            <AdditionalLength value='0.022093'/>
+            <FromLocation value='1.426834,1.635909,2.062647'/>
+            <ToLocation value='1.423346,1.619554,2.061028'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='279'>
+        <properties>
+            <Name value='12V@039012020 Molex Female 2P-2@Harness_2-Assembly P88:JP305@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP929'/>
+            <Length value='0.010282'/>
+            <AdditionalLength value='0.015282'/>
+            <FromLocation value='1.432959,1.650670,2.086109'/>
+            <ToLocation value='1.432836,1.641034,2.083413'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='280'>
+        <properties>
+            <Name value='GND@0039013023 Molex Male 2P-2@Harness_2-Assembly P88:JP897@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP897'/>
+            <Length value='0.019084'/>
+            <AdditionalLength value='0.024084'/>
+            <FromLocation value='1.432459,1.018877,2.016387'/>
+            <ToLocation value='1.432494,1.037427,2.018872'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='281'>
+        <properties>
+            <Name value='B-@Amphenol LTW Circular Male 4P M12A-04BMMB-SL7002-4@Harness_2-Assembly P88:JP885@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP885'/>
+            <Length value='0.013999'/>
+            <AdditionalLength value='0.018999'/>
+            <FromLocation value='1.430568,1.039655,2.040773'/>
+            <ToLocation value='1.434062,1.052371,2.039131'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='283'>
+        <properties>
+            <Name value='B-@Amphenol LTW Circular Female 4P M12A-04BFFB-SL7001-6@Harness_2-Assembly P88:JP909@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP909'/>
+            <Length value='0.017646'/>
+            <AdditionalLength value='0.022646'/>
+            <FromLocation value='1.433982,0.970502,2.037682'/>
+            <ToLocation value='1.430473,0.953552,2.037686'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='284'>
+        <properties>
+            <Name value='12V@039012020 Molex Female 2P-3@Harness_2-Assembly P88:JP920@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP920'/>
+            <Length value='0.009930'/>
+            <AdditionalLength value='0.014930'/>
+            <FromLocation value='1.432451,0.994601,2.020538'/>
+            <ToLocation value='1.432252,0.984677,2.020668'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='285'>
+        <properties>
+            <Name value='GND@003091032 Molex Powe Male 3P-2@Harness_2-Assembly P88:JP923@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP923'/>
+            <Length value='0.023551'/>
+            <AdditionalLength value='0.028551'/>
+            <FromLocation value='1.255133,0.619462,2.076949'/>
+            <ToLocation value='1.250218,0.619909,2.055020'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='288'>
+        <properties>
+            <Name value='CPoint1@Assembly RFID BBox-1@Harness_2-Assembly P88/Box RFID-1@Assembly RFID BBox:JP865@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP865'/>
+            <Length value='0.218651'/>
+            <AdditionalLength value='0.223651'/>
+            <FromLocation value='1.248327,1.835894,1.849464'/>
+            <ToLocation value='1.334922,1.824608,1.946210'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='294'>
+        <properties>
+            <Name value='JP922@Harness_2-Assembly P88:N@003092032 Molex Power Female 3P-1@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP922'/>
+            <Length value='0.026804'/>
+            <AdditionalLength value='0.031804'/>
+            <FromLocation value='1.250103,0.619305,2.098322'/>
+            <ToLocation value='1.248403,0.621807,2.124703'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='299'>
+        <properties>
+            <Name value='JP923@Harness_2-Assembly P88:N@003091032 Molex Powe Male 3P-2@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP923'/>
+            <Length value='0.021945'/>
+            <AdditionalLength value='0.026945'/>
+            <FromLocation value='1.250103,0.619462,2.076949'/>
+            <ToLocation value='1.250218,0.619909,2.055020'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='300'>
+        <properties>
+            <Name value='D0@039012040 Molex Female 4P-3@Harness_2-Assembly P88:JP855@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='4'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP855'/>
+            <Length value='0.016830'/>
+            <AdditionalLength value='0.021830'/>
+            <FromLocation value='1.332081,1.820269,1.995430'/>
+            <ToLocation value='1.330570,1.820465,2.012127'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='301'>
+        <properties>
+            <Name value='JP855@Harness_2-Assembly P88:JP861@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP861'/>
+            <ToComponentRef value='JP855'/>
+            <Length value='0.056689'/>
+            <AdditionalLength value='0.056689'/>
+            <FromLocation value='1.280225,1.823035,2.028589'/>
+            <ToLocation value='1.330570,1.820465,2.012127'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='302'>
+        <properties>
+            <Name value='JP854@Harness_2-Assembly P88:JP857@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP857'/>
+            <ToComponentRef value='JP854'/>
+            <Length value='0.077116'/>
+            <AdditionalLength value='0.077116'/>
+            <FromLocation value='1.252230,1.831270,2.111733'/>
+            <ToLocation value='1.261607,1.826642,2.037501'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.011832'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='303'>
+        <properties>
+            <Name value='JP854@Harness_2-Assembly P88:JP861@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP854'/>
+            <ToComponentRef value='JP861'/>
+            <Length value='0.021202'/>
+            <AdditionalLength value='0.021202'/>
+            <FromLocation value='1.261607,1.826642,2.037501'/>
+            <ToLocation value='1.280225,1.823035,2.028589'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.011832'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='304'>
+        <properties>
+            <Name value='GND@039013043 Molex Male 4P-1@Harness_2-Assembly P88:JP865@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP865'/>
+            <Length value='0.025446'/>
+            <AdditionalLength value='0.030446'/>
+            <FromLocation value='1.332074,1.824610,1.971272'/>
+            <ToLocation value='1.334922,1.824608,1.946210'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='305'>
+        <properties>
+            <Name value='JP25@Harness_2-Assembly P88:JP861@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP871'/>
+            <ToComponentRef value='JP861'/>
+            <Length value='0.204528'/>
+            <AdditionalLength value='0.204528'/>
+            <FromLocation value='1.435794,1.820807,2.075478'/>
+            <ToLocation value='1.280225,1.823035,2.028589'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.006000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='306'>
+        <properties>
+            <Name value='CPoint1@ring_term_awg-14-16_awg-x 8-1@Harness_2-Assembly P88:JP25@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP871'/>
+            <Length value='0.031817'/>
+            <AdditionalLength value='0.041817'/>
+            <FromLocation value='1.452721,1.839335,2.065885'/>
+            <ToLocation value='1.435794,1.820807,2.075478'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='307'>
+        <properties>
+            <Name value='JP875@Harness_2-Assembly P88:JP907@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP875'/>
+            <ToComponentRef value='JP907'/>
+            <Length value='0.044787'/>
+            <AdditionalLength value='0.044787'/>
+            <FromLocation value='1.422924,1.719944,2.061034'/>
+            <ToLocation value='1.417019,1.758743,2.042619'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='308'>
+        <properties>
+            <Name value='JP861@Harness_2-Assembly P88:JP879@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP879'/>
+            <ToComponentRef value='JP861'/>
+            <Length value='0.226833'/>
+            <AdditionalLength value='0.226833'/>
+            <FromLocation value='1.432838,1.693911,2.084177'/>
+            <ToLocation value='1.280225,1.823035,2.028589'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='309'>
+        <properties>
+            <Name value='JP882@Harness_2-Assembly P88:JP906@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP882'/>
+            <ToComponentRef value='JP906'/>
+            <Length value='0.104231'/>
+            <AdditionalLength value='0.104231'/>
+            <FromLocation value='1.451744,1.679689,2.061564'/>
+            <ToLocation value='1.421358,1.772669,2.036333'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='310'>
+        <properties>
+            <Name value='COM@Amphenol LTW Circular Female 4P M12A-04BFFB-SL7001-8@Harness_2-Assembly P88:JP886@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='4'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP886'/>
+            <Length value='0.016539'/>
+            <AdditionalLength value='0.021539'/>
+            <FromLocation value='1.423334,1.635909,2.059147'/>
+            <ToLocation value='1.423346,1.619554,2.061028'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='311'>
+        <properties>
+            <Name value='JP885@Harness_2-Assembly P88:JP891@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP885'/>
+            <ToComponentRef value='JP891'/>
+            <Length value='0.013304'/>
+            <AdditionalLength value='0.013304'/>
+            <FromLocation value='1.434062,1.052371,2.039131'/>
+            <ToLocation value='1.434026,1.065675,2.039198'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='312'>
+        <properties>
+            <Name value='JP294@Harness_2-Assembly P88:JP886@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP899'/>
+            <ToComponentRef value='JP886'/>
+            <Length value='0.016959'/>
+            <AdditionalLength value='0.016959'/>
+            <FromLocation value='1.423406,1.602595,2.060916'/>
+            <ToLocation value='1.423346,1.619554,2.061028'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='313'>
+        <properties>
+            <Name value='JP294@Harness_2-Assembly P88:JP891@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP891'/>
+            <ToComponentRef value='JP899'/>
+            <Length value='0.537531'/>
+            <AdditionalLength value='0.537531'/>
+            <FromLocation value='1.434026,1.065675,2.039198'/>
+            <ToLocation value='1.423406,1.602595,2.060916'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.008000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='314'>
+        <properties>
+            <Name value='JP891@Harness_2-Assembly P88:JP897@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP897'/>
+            <ToComponentRef value='JP891'/>
+            <Length value='0.035534'/>
+            <AdditionalLength value='0.035534'/>
+            <FromLocation value='1.432494,1.037427,2.018872'/>
+            <ToLocation value='1.434026,1.065675,2.039198'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='315'>
+        <properties>
+            <Name value='JP294@Harness_2-Assembly P88:JP305@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP929'/>
+            <ToComponentRef value='JP899'/>
+            <Length value='0.046016'/>
+            <AdditionalLength value='0.046016'/>
+            <FromLocation value='1.432836,1.641034,2.083413'/>
+            <ToLocation value='1.423406,1.602595,2.060916'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='316'>
+        <properties>
+            <Name value='JP861@Harness_2-Assembly P88:JP906@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP906'/>
+            <ToComponentRef value='JP861'/>
+            <Length value='0.152458'/>
+            <AdditionalLength value='0.152458'/>
+            <FromLocation value='1.421358,1.772669,2.036333'/>
+            <ToLocation value='1.280225,1.823035,2.028589'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='317'>
+        <properties>
+            <Name value='JP861@Harness_2-Assembly P88:JP907@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP907'/>
+            <ToComponentRef value='JP861'/>
+            <Length value='0.155630'/>
+            <AdditionalLength value='0.155630'/>
+            <FromLocation value='1.417019,1.758743,2.042619'/>
+            <ToLocation value='1.280225,1.823035,2.028589'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='318'>
+        <properties>
+            <Name value='CPoint2@R3G250-RE09-07-2@Harness_2-Assembly P88:JP910@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP910'/>
+            <Length value='0.104397'/>
+            <AdditionalLength value='0.109397'/>
+            <FromLocation value='1.266956,0.631406,1.983142'/>
+            <ToLocation value='1.291575,0.644780,2.078858'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='319'>
+        <properties>
+            <Name value='JP909@Harness_2-Assembly P88:JP910@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP909'/>
+            <ToComponentRef value='JP910'/>
+            <Length value='0.356249'/>
+            <AdditionalLength value='0.356249'/>
+            <FromLocation value='1.430473,0.953552,2.037686'/>
+            <ToLocation value='1.291575,0.644780,2.078858'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='320'>
+        <properties>
+            <Name value='CPoint1@Box Power Assembly-1@Harness_2-Assembly P88/53015820_53019220 Cblae Gland-2@Box Power Assembly:JP917@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP917'/>
+            <Length value='0.066873'/>
+            <AdditionalLength value='0.071873'/>
+            <FromLocation value='1.254616,0.743792,2.170934'/>
+            <ToLocation value='1.239034,0.783032,2.155473'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='321'>
+        <properties>
+            <Name value='JP917@Harness_2-Assembly P88:JP920@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP920'/>
+            <ToComponentRef value='JP917'/>
+            <Length value='0.380741'/>
+            <AdditionalLength value='0.380741'/>
+            <FromLocation value='1.432252,0.984677,2.020668'/>
+            <ToLocation value='1.239034,0.783032,2.155473'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='322'>
+        <properties>
+            <Name value='CPoint1@Box Power Assembly-1@Harness_2-Assembly P88/53015820_53019220 Cblae Gland-1@Box Power Assembly:JP922@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP922'/>
+            <Length value='0.126039'/>
+            <AdditionalLength value='0.131039'/>
+            <FromLocation value='1.256144,0.680458,2.185475'/>
+            <ToLocation value='1.248403,0.621807,2.124703'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.008000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='323'>
+        <properties>
+            <Name value='CPoint1@R3G250-RE09-07-2@Harness_2-Assembly P88:JP923@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP923'/>
+            <Length value='0.073059'/>
+            <AdditionalLength value='0.078059'/>
+            <FromLocation value='1.253177,0.631406,1.983142'/>
+            <ToLocation value='1.250218,0.619909,2.055020'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.008000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='324'>
+        <properties>
+            <Name value='CPoint1@AC plug EU-1@Harness_2-Assembly P88:JP926@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP926'/>
+            <Length value='0.260712'/>
+            <AdditionalLength value='0.265712'/>
+            <FromLocation value='1.663117,0.561729,1.556393'/>
+            <ToLocation value='1.516338,0.574046,1.759953'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.009000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='325'>
+        <properties>
+            <Name value='JP926@Harness_2-Assembly P88:JP927@Harness_2-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP927'/>
+            <ToComponentRef value='JP926'/>
+            <Length value='0.074879'/>
+            <AdditionalLength value='0.074879'/>
+            <FromLocation value='1.514869,0.640689,1.776825'/>
+            <ToLocation value='1.516338,0.574046,1.759953'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.009000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>
