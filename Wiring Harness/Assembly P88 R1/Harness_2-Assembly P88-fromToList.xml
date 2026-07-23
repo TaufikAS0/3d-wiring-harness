@@ -256,7 +256,7 @@
         <fromPinID value='-1'/>
         <fromPinRef value=''/>
         <fromInsert value=''/>
-        <fromCompPart value='039012020 Molex Female 2P'/>
+        <fromCompPart value='0039013023 Molex Male 2P'/>
         <twistID value='0'/>
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
@@ -295,7 +295,7 @@
         <fromPinID value='-1'/>
         <fromPinRef value=''/>
         <fromInsert value=''/>
-        <fromCompPart value='039012020 Molex Female 2P'/>
+        <fromCompPart value='0039013023 Molex Male 2P'/>
         <twistID value='0'/>
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
@@ -346,7 +346,7 @@
         <toCompRef value='430251400 Molex Female Micro Fit 14P-4'/>
         <toPinID value='-1'/>
         <toPinRef value=''/>
-        <toCompPart value=''/>
+        <toCompPart value='430251400 Molex Female Micro Fit 14P'/>
         <toInsert value=''/>
         <owner value='1'/>
         <minBendRadius value='0.000000'/>
@@ -463,7 +463,7 @@
         <toCompRef value='430251400 Molex Female Micro Fit 14P-4'/>
         <toPinID value='-1'/>
         <toPinRef value=''/>
-        <toCompPart value=''/>
+        <toCompPart value='430251400 Molex Female Micro Fit 14P'/>
         <toInsert value=''/>
         <owner value='1'/>
         <minBendRadius value='0.000000'/>
@@ -502,7 +502,7 @@
         <toCompRef value='430251400 Molex Female Micro Fit 14P-4'/>
         <toPinID value='-1'/>
         <toPinRef value=''/>
-        <toCompPart value=''/>
+        <toCompPart value='430251400 Molex Female Micro Fit 14P'/>
         <toInsert value=''/>
         <owner value='1'/>
         <minBendRadius value='0.000000'/>
@@ -521,8 +521,8 @@
         <OD value='0.004000'/>
         <conductorDiameter value='0.002000'/>
         <size value='Unset'/>
-        <routedLength value='0.000000'/>
-        <cuttingLength value='0.005000'/>
+        <routedLength value='0.267911'/>
+        <cuttingLength value='0.277911'/>
         <comments value='Harness Molex 14P'/>
         <fromCompID value='-1'/>
         <fromCompRef value='Amphenol LTW Circular Male 4P M12A-04BMMB-SL7002-6'/>
@@ -534,11 +534,11 @@
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
         <unitForTwistPerUnitLength value='0'/>
-        <twistedLength value='0.005000'/>
+        <twistedLength value='0.277911'/>
         <twistedPairName value='Harness RS485'/>
         <fromPinIsTBlock value='0'/>
         <toCompID value='-1'/>
-        <toCompRef value='JP857'/>
+        <toCompRef value='430251400 Molex Female Micro Fit 14P-4'/>
         <toPinID value='-1'/>
         <toPinRef value=''/>
         <toCompPart value=''/>

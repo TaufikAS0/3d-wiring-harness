@@ -40,7 +40,7 @@
     </segment>
     <segment ID='126'>
         <properties>
-            <Name value='CPoint1@ring_term_awg-14-16_awg-x 8-2@Harness_2-Assembly P88:JP871@Harness_2-Assembly P88'/>
+            <Name value='CPoint1@ring_term_awg-14-16_awg-x 8-2@Harness_2-Assembly P88:JP25@Harness_2-Assembly P88'/>
             <FromCompID value='0'/>
             <ToCompID value='0'/>
             <FromConnectionPoint value=''/>
@@ -382,7 +382,7 @@
     </segment>
     <segment ID='301'>
         <properties>
-            <Name value='JP855@Harness_2-Assembly P88:JP978@Harness_2-Assembly P88'/>
+            <Name value='JP249@Harness_2-Assembly P88:JP855@Harness_2-Assembly P88'/>
             <FromCompID value='0'/>
             <ToCompID value='0'/>
             <FromConnectionPoint value=''/>
@@ -420,7 +420,7 @@
     </segment>
     <segment ID='303'>
         <properties>
-            <Name value='JP854@Harness_2-Assembly P88:JP978@Harness_2-Assembly P88'/>
+            <Name value='JP249@Harness_2-Assembly P88:JP854@Harness_2-Assembly P88'/>
             <FromCompID value='0'/>
             <ToCompID value='0'/>
             <FromConnectionPoint value=''/>
@@ -439,7 +439,7 @@
     </segment>
     <segment ID='305'>
         <properties>
-            <Name value='JP871@Harness_2-Assembly P88:JP984@Harness_2-Assembly P88'/>
+            <Name value='JP22@Harness_2-Assembly P88:JP25@Harness_2-Assembly P88'/>
             <FromCompID value='0'/>
             <ToCompID value='0'/>
             <FromConnectionPoint value=''/>
@@ -458,7 +458,7 @@
     </segment>
     <segment ID='306'>
         <properties>
-            <Name value='CPoint1@ring_term_awg-14-16_awg-x 8-1@Harness_2-Assembly P88:JP871@Harness_2-Assembly P88'/>
+            <Name value='CPoint1@ring_term_awg-14-16_awg-x 8-1@Harness_2-Assembly P88:JP25@Harness_2-Assembly P88'/>
             <FromCompID value='0'/>
             <ToCompID value='0'/>
             <FromConnectionPoint value=''/>
@@ -515,7 +515,7 @@
     </segment>
     <segment ID='334'>
         <properties>
-            <Name value='JP978@Harness_2-Assembly P88:JP984@Harness_2-Assembly P88'/>
+            <Name value='JP22@Harness_2-Assembly P88:JP249@Harness_2-Assembly P88'/>
             <FromCompID value='0'/>
             <ToCompID value='0'/>
             <FromConnectionPoint value=''/>
@@ -534,7 +534,7 @@
     </segment>
     <segment ID='335'>
         <properties>
-            <Name value='JP984@Harness_2-Assembly P88:JP987@Harness_2-Assembly P88'/>
+            <Name value='JP22@Harness_2-Assembly P88:JP987@Harness_2-Assembly P88'/>
             <FromCompID value='0'/>
             <ToCompID value='0'/>
             <FromConnectionPoint value=''/>
@@ -553,7 +553,7 @@
     </segment>
     <segment ID='336'>
         <properties>
-            <Name value='JP984@Harness_2-Assembly P88:JP990@Harness_2-Assembly P88'/>
+            <Name value='JP22@Harness_2-Assembly P88:JP990@Harness_2-Assembly P88'/>
             <FromCompID value='0'/>
             <ToCompID value='0'/>
             <FromConnectionPoint value=''/>
@@ -572,7 +572,7 @@
     </segment>
     <segment ID='337'>
         <properties>
-            <Name value='JP984@Harness_2-Assembly P88:JP995@Harness_2-Assembly P88'/>
+            <Name value='JP22@Harness_2-Assembly P88:JP995@Harness_2-Assembly P88'/>
             <FromCompID value='0'/>
             <ToCompID value='0'/>
             <FromConnectionPoint value=''/>

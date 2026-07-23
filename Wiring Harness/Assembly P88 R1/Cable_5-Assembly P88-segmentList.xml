@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='1'>
+        <properties>
+            <Name value='12V@039012020 Molex Female 2P-1@Cable_5-Assembly P88:JP28@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP28'/>
+            <Length value='0.012283'/>
+            <AdditionalLength value='0.017283'/>
+            <FromLocation value='1.445266,0.821968,1.829682'/>
+            <ToLocation value='1.449632,0.820818,1.840957'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='2'>
+        <properties>
+            <Name value='0V@039012020 Molex Female 2P-1@Cable_5-Assembly P88:JP28@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP28'/>
+            <Length value='0.012983'/>
+            <AdditionalLength value='0.017983'/>
+            <FromLocation value='1.445266,0.817768,1.829682'/>
+            <ToLocation value='1.449632,0.820818,1.840957'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='4'>
+        <properties>
+            <Name value='A+@Amphenol LTW Circular Female 4P M12A-04BFFB-SL7001-1@Cable_5-Assembly P88:JP21@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP21'/>
+            <Length value='0.016474'/>
+            <AdditionalLength value='0.021474'/>
+            <FromLocation value='1.483696,0.822023,1.846849'/>
+            <ToLocation value='1.494385,0.821389,1.859119'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='5'>
+        <properties>
+            <Name value='B-@Amphenol LTW Circular Female 4P M12A-04BFFB-SL7001-1@Cable_5-Assembly P88:JP21@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP21'/>
+            <Length value='0.016186'/>
+            <AdditionalLength value='0.021186'/>
+            <FromLocation value='1.486647,0.822023,1.844969'/>
+            <ToLocation value='1.494385,0.821389,1.859119'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='6'>
+        <properties>
+            <Name value='COM@Amphenol LTW Circular Female 4P M12A-04BFFB-SL7001-1@Cable_5-Assembly P88:JP21@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='4'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP21'/>
+            <Length value='0.016666'/>
+            <AdditionalLength value='0.021666'/>
+            <FromLocation value='1.486647,0.818523,1.844969'/>
+            <ToLocation value='1.494385,0.821389,1.859119'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='9'>
+        <properties>
+            <Name value='F@003092032 Molex Power Female 3P-1@Cable_5-Assembly P88:JP30@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP30'/>
+            <Length value='0.021572'/>
+            <AdditionalLength value='0.026572'/>
+            <FromLocation value='1.245074,0.619305,2.098322'/>
+            <ToLocation value='1.249745,0.619751,2.116783'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='10'>
+        <properties>
+            <Name value='JP30@Cable_5-Assembly P88:N@003092032 Molex Power Female 3P-1@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP30'/>
+            <Length value='0.018499'/>
+            <AdditionalLength value='0.023499'/>
+            <FromLocation value='1.250103,0.619305,2.098322'/>
+            <ToLocation value='1.249745,0.619751,2.116783'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='11'>
+        <properties>
+            <Name value='GND@003092032 Molex Power Female 3P-1@Cable_5-Assembly P88:JP30@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP30'/>
+            <Length value='0.019823'/>
+            <AdditionalLength value='0.024823'/>
+            <FromLocation value='1.255132,0.619305,2.098322'/>
+            <ToLocation value='1.249745,0.619751,2.116783'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='12'>
+        <properties>
+            <Name value='JP25@Cable_5-Assembly P88:N@003091032 Molex Powe Male 3P-1@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP25'/>
+            <Length value='0.018801'/>
+            <AdditionalLength value='0.023801'/>
+            <FromLocation value='1.250103,0.619462,2.076949'/>
+            <ToLocation value='1.250153,0.619655,2.058153'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='13'>
+        <properties>
+            <Name value='F@003091032 Molex Powe Male 3P-1@Cable_5-Assembly P88:JP25@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP25'/>
+            <Length value='0.022163'/>
+            <AdditionalLength value='0.027163'/>
+            <FromLocation value='1.245073,0.619462,2.076949'/>
+            <ToLocation value='1.250153,0.619655,2.058153'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='14'>
+        <properties>
+            <Name value='GND@003091032 Molex Powe Male 3P-1@Cable_5-Assembly P88:JP25@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP25'/>
+            <Length value='0.021357'/>
+            <AdditionalLength value='0.026357'/>
+            <FromLocation value='1.255133,0.619462,2.076949'/>
+            <ToLocation value='1.250153,0.619655,2.058153'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='19'>
+        <properties>
+            <Name value='CPoint2@R3G250-RE09-07-1@Cable_5-Assembly P88:JP24@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP24'/>
+            <Length value='0.155310'/>
+            <AdditionalLength value='0.160310'/>
+            <FromLocation value='1.266956,0.631406,1.983142'/>
+            <ToLocation value='1.372066,0.653246,2.066162'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='20'>
+        <properties>
+            <Name value='JP21@Cable_5-Assembly P88:JP24@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP21'/>
+            <ToComponentRef value='JP24'/>
+            <Length value='0.327048'/>
+            <AdditionalLength value='0.327048'/>
+            <FromLocation value='1.494385,0.821389,1.859119'/>
+            <ToLocation value='1.372066,0.653246,2.066162'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='21'>
+        <properties>
+            <Name value='CPoint1@R3G250-RE09-07-1@Cable_5-Assembly P88:JP25@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP25'/>
+            <Length value='0.076203'/>
+            <AdditionalLength value='0.081203'/>
+            <FromLocation value='1.253177,0.631406,1.983142'/>
+            <ToLocation value='1.250153,0.619655,2.058153'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.008000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='22'>
+        <properties>
+            <Name value='CPoint1@Box Power Assembly-1@Cable_5-Assembly P88/53015820_53019220 Cblae Gland-2@Box Power Assembly:JP36@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP36'/>
+            <Length value='0.145003'/>
+            <AdditionalLength value='0.150003'/>
+            <FromLocation value='1.254616,0.743792,2.170934'/>
+            <ToLocation value='1.233036,0.807697,2.138108'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='23'>
+        <properties>
+            <Name value='CPoint1@Box Power Assembly-1@Cable_5-Assembly P88/53015820_53019220 Cblae Gland-1@Box Power Assembly:JP37@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP37'/>
+            <Length value='0.110635'/>
+            <AdditionalLength value='0.115635'/>
+            <FromLocation value='1.256144,0.680458,2.185475'/>
+            <ToLocation value='1.209182,0.632478,2.170531'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.008000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='24'>
+        <properties>
+            <Name value='CPoint1@AC plug EU-2@Cable_5-Assembly P88:JP35@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP35'/>
+            <Length value='0.275482'/>
+            <AdditionalLength value='0.280482'/>
+            <FromLocation value='1.654300,0.555835,2.292026'/>
+            <ToLocation value='1.412732,0.537783,2.176072'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.008000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='25'>
+        <properties>
+            <Name value='CPoint1@Box Power Assembly-1@Cable_5-Assembly P88/electric_component-1@Box Power Assembly:JP38@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP38'/>
+            <Length value='0.085620'/>
+            <AdditionalLength value='0.090620'/>
+            <FromLocation value='1.418156,0.703411,2.123143'/>
+            <ToLocation value='1.453373,0.656847,2.123043'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.008000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='26'>
+        <properties>
+            <Name value='JP34@Cable_5-Assembly P88:JP35@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP35'/>
+            <ToComponentRef value='JP34'/>
+            <Length value='0.087655'/>
+            <AdditionalLength value='0.087655'/>
+            <FromLocation value='1.412732,0.537783,2.176072'/>
+            <ToLocation value='1.405774,0.617128,2.164447'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.008000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='27'>
+        <properties>
+            <Name value='JP28@Cable_5-Assembly P88:JP36@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP28'/>
+            <ToComponentRef value='JP36'/>
+            <Length value='0.381887'/>
+            <AdditionalLength value='0.381887'/>
+            <FromLocation value='1.449632,0.820818,1.840957'/>
+            <ToLocation value='1.233036,0.807697,2.138108'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='28'>
+        <properties>
+            <Name value='JP30@Cable_5-Assembly P88:JP37@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP30'/>
+            <ToComponentRef value='JP37'/>
+            <Length value='0.069678'/>
+            <AdditionalLength value='0.069678'/>
+            <FromLocation value='1.249745,0.619751,2.116783'/>
+            <ToLocation value='1.209182,0.632478,2.170531'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.008000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='29'>
+        <properties>
+            <Name value='JP34@Cable_5-Assembly P88:JP38@Cable_5-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP34'/>
+            <ToComponentRef value='JP38'/>
+            <Length value='0.082996'/>
+            <AdditionalLength value='0.082996'/>
+            <FromLocation value='1.405774,0.617128,2.164447'/>
+            <ToLocation value='1.453373,0.656847,2.123043'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.008000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>
