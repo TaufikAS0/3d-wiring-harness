@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='2'>
+        <properties>
+            <Name value='D0@039013043 Molex Male 4P-1@RFID Box_Harness-Assembly P88:JP11@RFID Box_Harness-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='4'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP11'/>
+            <Length value='0.021461'/>
+            <AdditionalLength value='0.026461'/>
+            <FromLocation value='1.712219,1.605943,1.866541'/>
+            <ToLocation value='1.714605,1.609397,1.846710'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='3'>
+        <properties>
+            <Name value='GND@039013043 Molex Male 4P-1@RFID Box_Harness-Assembly P88:JP11@RFID Box_Harness-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP11'/>
+            <Length value='0.020605'/>
+            <AdditionalLength value='0.025605'/>
+            <FromLocation value='1.712219,1.610143,1.866541'/>
+            <ToLocation value='1.714605,1.609397,1.846710'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='4'>
+        <properties>
+            <Name value='JP11@RFID Box_Harness-Assembly P88:VCC@039013043 Molex Male 4P-1@RFID Box_Harness-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP11'/>
+            <Length value='0.020593'/>
+            <AdditionalLength value='0.025593'/>
+            <FromLocation value='1.716419,1.610143,1.866541'/>
+            <ToLocation value='1.714605,1.609397,1.846710'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='5'>
+        <properties>
+            <Name value='D1@039013043 Molex Male 4P-1@RFID Box_Harness-Assembly P88:JP11@RFID Box_Harness-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP11'/>
+            <Length value='0.021032'/>
+            <AdditionalLength value='0.026032'/>
+            <FromLocation value='1.716419,1.605943,1.866541'/>
+            <ToLocation value='1.714605,1.609397,1.846710'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='6'>
+        <properties>
+            <Name value='CPoint1@Assembly RFID BBox-1@RFID Box_Harness-Assembly P88/Box RFID-1@Assembly RFID BBox:JP15@RFID Box_Harness-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP15'/>
+            <Length value='0.125440'/>
+            <AdditionalLength value='0.130440'/>
+            <FromLocation value='1.628443,1.621531,1.769823'/>
+            <ToLocation value='1.698103,1.638160,1.739093'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='7'>
+        <properties>
+            <Name value='JP11@RFID Box_Harness-Assembly P88:JP15@RFID Box_Harness-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP11'/>
+            <ToComponentRef value='JP15'/>
+            <Length value='0.114192'/>
+            <AdditionalLength value='0.114192'/>
+            <FromLocation value='1.714605,1.609397,1.846710'/>
+            <ToLocation value='1.698103,1.638160,1.739093'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>
