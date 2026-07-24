@@ -541,7 +541,7 @@
         <toCompRef value='430251400 Molex Female Micro Fit 14P-4'/>
         <toPinID value='-1'/>
         <toPinRef value=''/>
-        <toCompPart value=''/>
+        <toCompPart value='430251400 Molex Female Micro Fit 14P'/>
         <toInsert value=''/>
         <owner value='1'/>
         <minBendRadius value='0.000000'/>
