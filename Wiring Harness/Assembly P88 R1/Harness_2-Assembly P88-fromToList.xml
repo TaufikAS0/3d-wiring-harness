@@ -22,7 +22,7 @@
         <fromPinID value='-1'/>
         <fromPinRef value='1'/>
         <fromInsert value=''/>
-        <fromCompPart value=''/>
+        <fromCompPart value='ring_term_awg-14-16_awg-x 8'/>
         <twistID value='0'/>
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
@@ -61,7 +61,7 @@
         <fromPinID value='-1'/>
         <fromPinRef value=''/>
         <fromInsert value=''/>
-        <fromCompPart value=''/>
+        <fromCompPart value='039012040 Molex Female 4P'/>
         <twistID value='0'/>
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
@@ -73,7 +73,7 @@
         <toCompRef value='430251400 Molex Female Micro Fit 14P-4'/>
         <toPinID value='-1'/>
         <toPinRef value=''/>
-        <toCompPart value=''/>
+        <toCompPart value='430251400 Molex Female Micro Fit 14P'/>
         <toInsert value=''/>
         <owner value='1'/>
         <minBendRadius value='0.000000'/>
@@ -100,7 +100,7 @@
         <fromPinID value='-1'/>
         <fromPinRef value=''/>
         <fromInsert value=''/>
-        <fromCompPart value=''/>
+        <fromCompPart value='039012040 Molex Female 4P'/>
         <twistID value='0'/>
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
@@ -112,7 +112,7 @@
         <toCompRef value='430251400 Molex Female Micro Fit 14P-4'/>
         <toPinID value='-1'/>
         <toPinRef value=''/>
-        <toCompPart value=''/>
+        <toCompPart value='430251400 Molex Female Micro Fit 14P'/>
         <toInsert value=''/>
         <owner value='1'/>
         <minBendRadius value='0.000000'/>
@@ -139,7 +139,7 @@
         <fromPinID value='-1'/>
         <fromPinRef value=''/>
         <fromInsert value=''/>
-        <fromCompPart value=''/>
+        <fromCompPart value='039012040 Molex Female 4P'/>
         <twistID value='0'/>
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
@@ -178,7 +178,7 @@
         <fromPinID value='-1'/>
         <fromPinRef value=''/>
         <fromInsert value=''/>
-        <fromCompPart value=''/>
+        <fromCompPart value='039012040 Molex Female 4P'/>
         <twistID value='0'/>
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
@@ -217,7 +217,7 @@
         <fromPinID value='-1'/>
         <fromPinRef value=''/>
         <fromInsert value=''/>
-        <fromCompPart value=''/>
+        <fromCompPart value='039014031 Molex Female 3P Putih'/>
         <twistID value='0'/>
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
@@ -256,7 +256,7 @@
         <fromPinID value='-1'/>
         <fromPinRef value=''/>
         <fromInsert value=''/>
-        <fromCompPart value=''/>
+        <fromCompPart value='039014031 Molex Female 3P Putih'/>
         <twistID value='0'/>
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
@@ -268,7 +268,7 @@
         <toCompRef value='430251400 Molex Female Micro Fit 14P-4'/>
         <toPinID value='-1'/>
         <toPinRef value=''/>
-        <toCompPart value=''/>
+        <toCompPart value='430251400 Molex Female Micro Fit 14P'/>
         <toInsert value=''/>
         <owner value='1'/>
         <minBendRadius value='0.000000'/>
@@ -295,7 +295,7 @@
         <fromPinID value='-1'/>
         <fromPinRef value=''/>
         <fromInsert value=''/>
-        <fromCompPart value=''/>
+        <fromCompPart value='0039013023 Molex Male 2P'/>
         <twistID value='0'/>
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
@@ -307,7 +307,7 @@
         <toCompRef value='430251400 Molex Female Micro Fit 14P-4'/>
         <toPinID value='-1'/>
         <toPinRef value=''/>
-        <toCompPart value=''/>
+        <toCompPart value='430251400 Molex Female Micro Fit 14P'/>
         <toInsert value=''/>
         <owner value='1'/>
         <minBendRadius value='0.000000'/>
@@ -334,7 +334,7 @@
         <fromPinID value='-1'/>
         <fromPinRef value=''/>
         <fromInsert value=''/>
-        <fromCompPart value=''/>
+        <fromCompPart value='0039013023 Molex Male 2P'/>
         <twistID value='0'/>
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
@@ -346,7 +346,7 @@
         <toCompRef value='430251400 Molex Female Micro Fit 14P-4'/>
         <toPinID value='-1'/>
         <toPinRef value=''/>
-        <toCompPart value=''/>
+        <toCompPart value='430251400 Molex Female Micro Fit 14P'/>
         <toInsert value=''/>
         <owner value='1'/>
         <minBendRadius value='0.000000'/>
@@ -373,7 +373,7 @@
         <fromPinID value='-1'/>
         <fromPinRef value=''/>
         <fromInsert value=''/>
-        <fromCompPart value=''/>
+        <fromCompPart value='Amphenol LTW Circular Male 4P M12A-04BMMB-SL7002'/>
         <twistID value='0'/>
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
@@ -385,7 +385,7 @@
         <toCompRef value='430251400 Molex Female Micro Fit 14P-4'/>
         <toPinID value='-1'/>
         <toPinRef value=''/>
-        <toCompPart value=''/>
+        <toCompPart value='430251400 Molex Female Micro Fit 14P'/>
         <toInsert value=''/>
         <owner value='1'/>
         <minBendRadius value='0.000000'/>
@@ -412,7 +412,7 @@
         <fromPinID value='-1'/>
         <fromPinRef value=''/>
         <fromInsert value=''/>
-        <fromCompPart value=''/>
+        <fromCompPart value='Amphenol LTW Circular Male 4P M12A-04BMMB-SL7002'/>
         <twistID value='0'/>
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
@@ -424,7 +424,7 @@
         <toCompRef value='430251400 Molex Female Micro Fit 14P-4'/>
         <toPinID value='-1'/>
         <toPinRef value=''/>
-        <toCompPart value=''/>
+        <toCompPart value='430251400 Molex Female Micro Fit 14P'/>
         <toInsert value=''/>
         <owner value='1'/>
         <minBendRadius value='0.000000'/>
@@ -451,7 +451,7 @@
         <fromPinID value='-1'/>
         <fromPinRef value=''/>
         <fromInsert value=''/>
-        <fromCompPart value=''/>
+        <fromCompPart value='050291662 Molex Female 3P Hitam'/>
         <twistID value='0'/>
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
@@ -490,7 +490,7 @@
         <fromPinID value='-1'/>
         <fromPinRef value=''/>
         <fromInsert value=''/>
-        <fromCompPart value=''/>
+        <fromCompPart value='050291662 Molex Female 3P Hitam'/>
         <twistID value='0'/>
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
@@ -502,7 +502,7 @@
         <toCompRef value='430251400 Molex Female Micro Fit 14P-4'/>
         <toPinID value='-1'/>
         <toPinRef value=''/>
-        <toCompPart value=''/>
+        <toCompPart value='430251400 Molex Female Micro Fit 14P'/>
         <toInsert value=''/>
         <owner value='1'/>
         <minBendRadius value='0.000000'/>
