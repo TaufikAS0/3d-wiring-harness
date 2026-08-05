@@ -53,8 +53,8 @@
         <OD value='0.004000'/>
         <conductorDiameter value='0.002000'/>
         <size value='Unset'/>
-        <routedLength value='0.315414'/>
-        <cuttingLength value='0.325414'/>
+        <routedLength value='0.315425'/>
+        <cuttingLength value='0.325425'/>
         <comments value='Harness Molex 4P'/>
         <fromCompID value='-1'/>
         <fromCompRef value='039012040 Molex Female 4P-3'/>
@@ -66,7 +66,7 @@
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
         <unitForTwistPerUnitLength value='0'/>
-        <twistedLength value='0.325414'/>
+        <twistedLength value='0.325425'/>
         <twistedPairName value=''/>
         <fromPinIsTBlock value='0'/>
         <toCompID value='-1'/>
@@ -92,8 +92,8 @@
         <OD value='0.004000'/>
         <conductorDiameter value='0.002000'/>
         <size value='Unset'/>
-        <routedLength value='0.316819'/>
-        <cuttingLength value='0.326819'/>
+        <routedLength value='0.315425'/>
+        <cuttingLength value='0.325425'/>
         <comments value='Harness Molex 4P'/>
         <fromCompID value='-1'/>
         <fromCompRef value='039012040 Molex Female 4P-3'/>
@@ -105,7 +105,7 @@
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
         <unitForTwistPerUnitLength value='0'/>
-        <twistedLength value='0.326819'/>
+        <twistedLength value='0.325425'/>
         <twistedPairName value=''/>
         <fromPinIsTBlock value='0'/>
         <toCompID value='-1'/>
@@ -131,8 +131,8 @@
         <OD value='0.004000'/>
         <conductorDiameter value='0.002000'/>
         <size value='Unset'/>
-        <routedLength value='0.297164'/>
-        <cuttingLength value='0.302164'/>
+        <routedLength value='0.295420'/>
+        <cuttingLength value='0.300420'/>
         <comments value='Harness Molex 4P'/>
         <fromCompID value='-1'/>
         <fromCompRef value='039012040 Molex Female 4P-3'/>
@@ -144,7 +144,7 @@
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
         <unitForTwistPerUnitLength value='0'/>
-        <twistedLength value='0.302164'/>
+        <twistedLength value='0.300420'/>
         <twistedPairName value=''/>
         <fromPinIsTBlock value='0'/>
         <toCompID value='-1'/>
@@ -248,8 +248,8 @@
         <OD value='0.006000'/>
         <conductorDiameter value='0.002000'/>
         <size value='Unset'/>
-        <routedLength value='0.239133'/>
-        <cuttingLength value='0.249133'/>
+        <routedLength value='0.236256'/>
+        <cuttingLength value='0.246256'/>
         <comments value='Harness Magnetic Sensor'/>
         <fromCompID value='-1'/>
         <fromCompRef value='039014031 Molex Female 3P Putih-1'/>
@@ -261,7 +261,7 @@
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
         <unitForTwistPerUnitLength value='0'/>
-        <twistedLength value='0.249133'/>
+        <twistedLength value='0.246256'/>
         <twistedPairName value='Harness Magnetic Sensor_1'/>
         <fromPinIsTBlock value='0'/>
         <toCompID value='-1'/>
@@ -287,8 +287,8 @@
         <OD value='0.004000'/>
         <conductorDiameter value='0.002000'/>
         <size value='Unset'/>
-        <routedLength value='0.262409'/>
-        <cuttingLength value='0.272409'/>
+        <routedLength value='0.259134'/>
+        <cuttingLength value='0.269134'/>
         <comments value='Harness Molex 2P'/>
         <fromCompID value='-1'/>
         <fromCompRef value='0039013023 Molex Male 2P-1'/>
@@ -300,7 +300,7 @@
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
         <unitForTwistPerUnitLength value='0'/>
-        <twistedLength value='0.272409'/>
+        <twistedLength value='0.269134'/>
         <twistedPairName value=''/>
         <fromPinIsTBlock value='0'/>
         <toCompID value='-1'/>
@@ -326,8 +326,8 @@
         <OD value='0.004000'/>
         <conductorDiameter value='0.002000'/>
         <size value='Unset'/>
-        <routedLength value='0.264030'/>
-        <cuttingLength value='0.274030'/>
+        <routedLength value='0.259134'/>
+        <cuttingLength value='0.269134'/>
         <comments value='Harness Molex 2P'/>
         <fromCompID value='-1'/>
         <fromCompRef value='0039013023 Molex Male 2P-1'/>
@@ -339,7 +339,7 @@
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
         <unitForTwistPerUnitLength value='0'/>
-        <twistedLength value='0.274030'/>
+        <twistedLength value='0.269134'/>
         <twistedPairName value=''/>
         <fromPinIsTBlock value='0'/>
         <toCompID value='-1'/>
@@ -365,8 +365,8 @@
         <OD value='0.004000'/>
         <conductorDiameter value='0.002000'/>
         <size value='Unset'/>
-        <routedLength value='0.231280'/>
-        <cuttingLength value='0.241280'/>
+        <routedLength value='0.226740'/>
+        <cuttingLength value='0.236740'/>
         <comments value='Harness Molex 14P'/>
         <fromCompID value='-1'/>
         <fromCompRef value='Amphenol LTW Circular Male 4P M12A-04BMMB-SL7002-6'/>
@@ -378,7 +378,7 @@
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
         <unitForTwistPerUnitLength value='0'/>
-        <twistedLength value='0.241280'/>
+        <twistedLength value='0.236740'/>
         <twistedPairName value=''/>
         <fromPinIsTBlock value='0'/>
         <toCompID value='-1'/>
@@ -404,8 +404,8 @@
         <OD value='0.004000'/>
         <conductorDiameter value='0.002000'/>
         <size value='Unset'/>
-        <routedLength value='0.228712'/>
-        <cuttingLength value='0.238712'/>
+        <routedLength value='0.226740'/>
+        <cuttingLength value='0.236740'/>
         <comments value='Harness Molex 14P'/>
         <fromCompID value='-1'/>
         <fromCompRef value='Amphenol LTW Circular Male 4P M12A-04BMMB-SL7002-6'/>
@@ -417,7 +417,7 @@
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
         <unitForTwistPerUnitLength value='0'/>
-        <twistedLength value='0.238712'/>
+        <twistedLength value='0.236740'/>
         <twistedPairName value=''/>
         <fromPinIsTBlock value='0'/>
         <toCompID value='-1'/>
@@ -482,8 +482,8 @@
         <OD value='0.006000'/>
         <conductorDiameter value='0.002000'/>
         <size value='Unset'/>
-        <routedLength value='0.234995'/>
-        <cuttingLength value='0.244995'/>
+        <routedLength value='0.232048'/>
+        <cuttingLength value='0.242048'/>
         <comments value='Harness Magnetic Sensor'/>
         <fromCompID value='-1'/>
         <fromCompRef value='050291662 Molex Female 3P Hitam-1'/>
@@ -495,7 +495,7 @@
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
         <unitForTwistPerUnitLength value='0'/>
-        <twistedLength value='0.244995'/>
+        <twistedLength value='0.242048'/>
         <twistedPairName value='Harness Magnetic Sensor_2'/>
         <fromPinIsTBlock value='0'/>
         <toCompID value='-1'/>

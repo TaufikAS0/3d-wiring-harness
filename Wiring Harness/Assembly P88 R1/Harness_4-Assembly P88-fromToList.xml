@@ -14,8 +14,8 @@
         <OD value='0.004000'/>
         <conductorDiameter value='0.002000'/>
         <size value='Unset'/>
-        <routedLength value='1.553529'/>
-        <cuttingLength value='1.563529'/>
+        <routedLength value='1.542490'/>
+        <cuttingLength value='1.552490'/>
         <comments value='Harness Molex 2P'/>
         <fromCompID value='-1'/>
         <fromCompRef value='039012020 Molex Female 2P-1'/>
@@ -27,7 +27,7 @@
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
         <unitForTwistPerUnitLength value='0'/>
-        <twistedLength value='1.563529'/>
+        <twistedLength value='1.552490'/>
         <twistedPairName value=''/>
         <fromPinIsTBlock value='0'/>
         <toCompID value='-1'/>
@@ -53,8 +53,8 @@
         <OD value='0.004000'/>
         <conductorDiameter value='0.002000'/>
         <size value='Unset'/>
-        <routedLength value='1.553529'/>
-        <cuttingLength value='1.563529'/>
+        <routedLength value='1.542490'/>
+        <cuttingLength value='1.552490'/>
         <comments value='Harness Molex 2P'/>
         <fromCompID value='-1'/>
         <fromCompRef value='039012020 Molex Female 2P-1'/>
@@ -66,7 +66,7 @@
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
         <unitForTwistPerUnitLength value='0'/>
-        <twistedLength value='1.563529'/>
+        <twistedLength value='1.552490'/>
         <twistedPairName value=''/>
         <fromPinIsTBlock value='0'/>
         <toCompID value='-1'/>
@@ -92,8 +92,8 @@
         <OD value='0.004000'/>
         <conductorDiameter value='0.002000'/>
         <size value='Unset'/>
-        <routedLength value='1.719275'/>
-        <cuttingLength value='1.729275'/>
+        <routedLength value='1.714344'/>
+        <cuttingLength value='1.724344'/>
         <comments value='Harness Molex 14P'/>
         <fromCompID value='-1'/>
         <fromCompRef value='Amphenol LTW Circular Male 4P M12A-04BMMB-SL7002-2'/>
@@ -105,7 +105,7 @@
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
         <unitForTwistPerUnitLength value='0'/>
-        <twistedLength value='1.729275'/>
+        <twistedLength value='1.724344'/>
         <twistedPairName value=''/>
         <fromPinIsTBlock value='0'/>
         <toCompID value='-1'/>
@@ -131,8 +131,8 @@
         <OD value='0.004000'/>
         <conductorDiameter value='0.002000'/>
         <size value='Unset'/>
-        <routedLength value='1.719275'/>
-        <cuttingLength value='1.729275'/>
+        <routedLength value='1.714344'/>
+        <cuttingLength value='1.724344'/>
         <comments value='Harness Molex 14P'/>
         <fromCompID value='-1'/>
         <fromCompRef value='Amphenol LTW Circular Male 4P M12A-04BMMB-SL7002-2'/>
@@ -144,7 +144,7 @@
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
         <unitForTwistPerUnitLength value='0'/>
-        <twistedLength value='1.729275'/>
+        <twistedLength value='1.724344'/>
         <twistedPairName value=''/>
         <fromPinIsTBlock value='0'/>
         <toCompID value='-1'/>
@@ -170,8 +170,8 @@
         <OD value='0.004000'/>
         <conductorDiameter value='0.002000'/>
         <size value='Unset'/>
-        <routedLength value='1.719275'/>
-        <cuttingLength value='1.729275'/>
+        <routedLength value='1.714344'/>
+        <cuttingLength value='1.724344'/>
         <comments value='Harness Molex 14P'/>
         <fromCompID value='-1'/>
         <fromCompRef value='Amphenol LTW Circular Male 4P M12A-04BMMB-SL7002-2'/>
@@ -183,7 +183,7 @@
         <twistNumberPerLength value='0.000000'/>
         <twistPerMetreLength value='0.000000'/>
         <unitForTwistPerUnitLength value='0'/>
-        <twistedLength value='1.729275'/>
+        <twistedLength value='1.724344'/>
         <twistedPairName value=''/>
         <fromPinIsTBlock value='0'/>
         <toCompID value='-1'/>
