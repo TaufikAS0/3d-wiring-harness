@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='2'>
+        <properties>
+            <Name value='0V@039012020 Molex Female 2P-1@Cable_4-Assembly Cable of Power Box:JP14@Cable_4-Assembly Cable of Power Box'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP14'/>
+            <Length value='0.012188'/>
+            <AdditionalLength value='0.017188'/>
+            <FromLocation value='0.723872,0.856548,1.249176'/>
+            <ToLocation value='0.711916,0.858168,1.249176'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='5'>
+        <properties>
+            <Name value='CPoint1@Ferrules-2@Cable_4-Assembly Cable of Power Box:JP15@Cable_4-Assembly Cable of Power Box'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP15'/>
+            <Length value='0.033410'/>
+            <AdditionalLength value='0.038410'/>
+            <FromLocation value='0.356772,0.852053,1.248563'/>
+            <ToLocation value='0.387620,0.861830,1.249214'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='6'>
+        <properties>
+            <Name value='CPoint1@Ferrules-1@Cable_4-Assembly Cable of Power Box:JP15@Cable_4-Assembly Cable of Power Box'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP15'/>
+            <Length value='0.035432'/>
+            <AdditionalLength value='0.040432'/>
+            <FromLocation value='0.356772,0.875652,1.249215'/>
+            <ToLocation value='0.387620,0.861830,1.249214'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='7'>
+        <properties>
+            <Name value='12V@039012020 Molex Female 2P-1@Cable_4-Assembly Cable of Power Box:JP14@Cable_4-Assembly Cable of Power Box'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP14'/>
+            <Length value='0.012522'/>
+            <AdditionalLength value='0.017522'/>
+            <FromLocation value='0.723872,0.860748,1.249176'/>
+            <ToLocation value='0.711916,0.858168,1.249176'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='8'>
+        <properties>
+            <Name value='JP14@Cable_4-Assembly Cable of Power Box:JP15@Cable_4-Assembly Cable of Power Box'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP15'/>
+            <ToComponentRef value='JP14'/>
+            <Length value='0.324319'/>
+            <AdditionalLength value='0.324319'/>
+            <FromLocation value='0.387620,0.861830,1.249214'/>
+            <ToLocation value='0.711916,0.858168,1.249176'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>
