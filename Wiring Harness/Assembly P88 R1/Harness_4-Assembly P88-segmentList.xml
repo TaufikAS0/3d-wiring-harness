@@ -2,38 +2,19 @@
 <segmentData xmlns='http://www.solidworks.com/segmentData'>
     <segment ID='10'>
         <properties>
-            <Name value='IN PWR@0039013023 Molex Male 2P-1@Harness_4-Assembly P88:JP92@Harness_4-Assembly P88'/>
+            <Name value='IN PWR@0039013023 Molex Male 2P-1@Harness_4-Assembly P88:JP105@Harness_4-Assembly P88'/>
             <FromCompID value='0'/>
             <ToCompID value='0'/>
             <FromConnectionPoint value='1'/>
             <ToConnectionPoint value=''/>
             <FromComponentRef value=''/>
-            <ToComponentRef value='JP92'/>
-            <Length value='0.018100'/>
-            <AdditionalLength value='0.023100'/>
-            <FromLocation value='1.434299,0.822013,1.808116'/>
-            <ToLocation value='1.425553,0.819582,1.792961'/>
+            <ToComponentRef value='JP105'/>
+            <Length value='0.018699'/>
+            <AdditionalLength value='0.023699'/>
+            <FromLocation value='1.463467,0.622753,1.811320'/>
+            <ToLocation value='1.479020,0.620783,1.801599'/>
             <MaxDiameter value='0.000000'/>
-            <Diameter value='0.002000'/>
-            <Comment value='No Comments'/>
-            <Coverings value=''/>
-        </properties>
-    </segment>
-    <segment ID='11'>
-        <properties>
-            <Name value='GND@0039013023 Molex Male 2P-1@Harness_4-Assembly P88:JP92@Harness_4-Assembly P88'/>
-            <FromCompID value='0'/>
-            <ToCompID value='0'/>
-            <FromConnectionPoint value='2'/>
-            <ToConnectionPoint value=''/>
-            <FromComponentRef value=''/>
-            <ToComponentRef value='JP92'/>
-            <Length value='0.017649'/>
-            <AdditionalLength value='0.022649'/>
-            <FromLocation value='1.434299,0.817913,1.808116'/>
-            <ToLocation value='1.425553,0.819582,1.792961'/>
-            <MaxDiameter value='0.000000'/>
-            <Diameter value='0.002000'/>
+            <Diameter value='0.001500'/>
             <Comment value='No Comments'/>
             <Coverings value=''/>
         </properties>
@@ -109,7 +90,7 @@
             <FromLocation value='1.356220,1.838015,1.948534'/>
             <ToLocation value='1.355703,1.840620,1.939849'/>
             <MaxDiameter value='0.000000'/>
-            <Diameter value='0.002000'/>
+            <Diameter value='0.001500'/>
             <Comment value='No Comments'/>
             <Coverings value=''/>
         </properties>
@@ -128,7 +109,7 @@
             <FromLocation value='1.356220,1.842215,1.948534'/>
             <ToLocation value='1.355703,1.840620,1.939849'/>
             <MaxDiameter value='0.000000'/>
-            <Diameter value='0.002000'/>
+            <Diameter value='0.001500'/>
             <Comment value='No Comments'/>
             <Coverings value=''/>
         </properties>
@@ -173,16 +154,16 @@
     </segment>
     <segment ID='32'>
         <properties>
-            <Name value='JP83@Harness_4-Assembly P88:JP90@Harness_4-Assembly P88'/>
+            <Name value='JP103@Harness_4-Assembly P88:JP83@Harness_4-Assembly P88'/>
             <FromCompID value='0'/>
             <ToCompID value='0'/>
             <FromConnectionPoint value=''/>
             <ToConnectionPoint value=''/>
-            <FromComponentRef value='JP90'/>
+            <FromComponentRef value='JP103'/>
             <ToComponentRef value='JP83'/>
-            <Length value='0.273578'/>
-            <AdditionalLength value='0.273578'/>
-            <FromLocation value='1.370306,0.824005,1.753933'/>
+            <Length value='0.031167'/>
+            <AdditionalLength value='0.031167'/>
+            <FromLocation value='1.494154,0.627806,1.767864'/>
             <ToLocation value='1.468720,0.619813,1.782637'/>
             <MaxDiameter value='0.000000'/>
             <Diameter value='0.004000'/>
@@ -204,64 +185,178 @@
             <FromLocation value='1.355703,1.840620,1.939849'/>
             <ToLocation value='1.374240,1.841076,1.893703'/>
             <MaxDiameter value='0.000000'/>
-            <Diameter value='0.004000'/>
+            <Diameter value='0.003000'/>
             <Comment value='No Comments'/>
             <Coverings value=''/>
         </properties>
     </segment>
     <segment ID='34'>
         <properties>
-            <Name value='JP85@Harness_4-Assembly P88:JP89@Harness_4-Assembly P88'/>
+            <Name value='JP85@Harness_4-Assembly P88:JP98@Harness_4-Assembly P88'/>
             <FromCompID value='0'/>
             <ToCompID value='0'/>
             <FromConnectionPoint value=''/>
             <ToConnectionPoint value=''/>
             <FromComponentRef value='JP85'/>
-            <ToComponentRef value='JP89'/>
-            <Length value='1.128227'/>
-            <AdditionalLength value='1.128227'/>
+            <ToComponentRef value='JP98'/>
+            <Length value='0.122890'/>
+            <AdditionalLength value='0.122890'/>
             <FromLocation value='1.374240,1.841076,1.893703'/>
-            <ToLocation value='1.369426,0.842470,1.749822'/>
+            <ToLocation value='1.372430,1.787758,1.791114'/>
             <MaxDiameter value='0.000000'/>
-            <Diameter value='0.008000'/>
+            <Diameter value='0.007000'/>
             <Comment value='No Comments'/>
             <Coverings value=''/>
         </properties>
     </segment>
-    <segment ID='35'>
+    <segment ID='38'>
         <properties>
-            <Name value='JP89@Harness_4-Assembly P88:JP90@Harness_4-Assembly P88'/>
+            <Name value='JP93@Harness_4-Assembly P88:JP94@Harness_4-Assembly P88'/>
             <FromCompID value='0'/>
             <ToCompID value='0'/>
             <FromConnectionPoint value=''/>
             <ToConnectionPoint value=''/>
-            <FromComponentRef value='JP89'/>
-            <ToComponentRef value='JP90'/>
-            <Length value='0.018954'/>
-            <AdditionalLength value='0.018954'/>
-            <FromLocation value='1.369426,0.842470,1.749822'/>
-            <ToLocation value='1.370306,0.824005,1.753933'/>
+            <FromComponentRef value='JP94'/>
+            <ToComponentRef value='JP93'/>
+            <Length value='0.251090'/>
+            <AdditionalLength value='0.251090'/>
+            <FromLocation value='1.409251,1.142317,1.768411'/>
+            <ToLocation value='1.409251,0.891509,1.768411'/>
             <MaxDiameter value='0.000000'/>
-            <Diameter value='0.008000'/>
+            <Diameter value='0.007000'/>
             <Comment value='No Comments'/>
             <Coverings value=''/>
         </properties>
     </segment>
-    <segment ID='36'>
+    <segment ID='39'>
         <properties>
-            <Name value='JP90@Harness_4-Assembly P88:JP92@Harness_4-Assembly P88'/>
+            <Name value='JP95@Harness_4-Assembly P88:JP97@Harness_4-Assembly P88'/>
             <FromCompID value='0'/>
             <ToCompID value='0'/>
             <FromConnectionPoint value=''/>
             <ToConnectionPoint value=''/>
-            <FromComponentRef value='JP92'/>
-            <ToComponentRef value='JP90'/>
-            <Length value='0.073312'/>
-            <AdditionalLength value='0.073312'/>
-            <FromLocation value='1.425553,0.819582,1.792961'/>
-            <ToLocation value='1.370306,0.824005,1.753933'/>
+            <FromComponentRef value='JP95'/>
+            <ToComponentRef value='JP97'/>
+            <Length value='0.074821'/>
+            <AdditionalLength value='0.074821'/>
+            <FromLocation value='1.409251,1.259727,1.768411'/>
+            <ToLocation value='1.384106,1.191351,1.767220'/>
             <MaxDiameter value='0.000000'/>
-            <Diameter value='0.004000'/>
+            <Diameter value='0.007000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='40'>
+        <properties>
+            <Name value='JP95@Harness_4-Assembly P88:JP96@Harness_4-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP96'/>
+            <ToComponentRef value='JP95'/>
+            <Length value='0.451805'/>
+            <AdditionalLength value='0.451805'/>
+            <FromLocation value='1.409251,1.711259,1.768411'/>
+            <ToLocation value='1.409251,1.259727,1.768411'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.007000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='41'>
+        <properties>
+            <Name value='JP94@Harness_4-Assembly P88:JP97@Harness_4-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP97'/>
+            <ToComponentRef value='JP94'/>
+            <Length value='0.057506'/>
+            <AdditionalLength value='0.057506'/>
+            <FromLocation value='1.384106,1.191351,1.767220'/>
+            <ToLocation value='1.409251,1.142317,1.768411'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.007000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='42'>
+        <properties>
+            <Name value='JP96@Harness_4-Assembly P88:JP98@Harness_4-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP98'/>
+            <ToComponentRef value='JP96'/>
+            <Length value='0.088668'/>
+            <AdditionalLength value='0.088668'/>
+            <FromLocation value='1.372430,1.787758,1.791114'/>
+            <ToLocation value='1.409251,1.711259,1.768411'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.007000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='43'>
+        <properties>
+            <Name value='GND@0039013023 Molex Male 2P-1@Harness_4-Assembly P88:JP105@Harness_4-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP105'/>
+            <Length value='0.018639'/>
+            <AdditionalLength value='0.023639'/>
+            <FromLocation value='1.463467,0.618653,1.811320'/>
+            <ToLocation value='1.479020,0.620783,1.801599'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001500'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='44'>
+        <properties>
+            <Name value='JP103@Harness_4-Assembly P88:JP93@Harness_4-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP103'/>
+            <ToComponentRef value='JP93'/>
+            <Length value='0.307515'/>
+            <AdditionalLength value='0.307515'/>
+            <FromLocation value='1.494154,0.627806,1.767864'/>
+            <ToLocation value='1.409251,0.891509,1.768411'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.007000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='45'>
+        <properties>
+            <Name value='JP103@Harness_4-Assembly P88:JP105@Harness_4-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP105'/>
+            <ToComponentRef value='JP103'/>
+            <Length value='0.039391'/>
+            <AdditionalLength value='0.039391'/>
+            <FromLocation value='1.479020,0.620783,1.801599'/>
+            <ToLocation value='1.494154,0.627806,1.767864'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.003000'/>
             <Comment value='No Comments'/>
             <Coverings value=''/>
         </properties>

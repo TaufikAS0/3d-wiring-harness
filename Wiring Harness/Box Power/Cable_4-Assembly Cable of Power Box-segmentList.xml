@@ -14,7 +14,7 @@
             <FromLocation value='0.723872,0.856548,1.249176'/>
             <ToLocation value='0.711916,0.858168,1.249176'/>
             <MaxDiameter value='0.000000'/>
-            <Diameter value='0.002000'/>
+            <Diameter value='0.001500'/>
             <Comment value='No Comments'/>
             <Coverings value=''/>
         </properties>
@@ -33,7 +33,7 @@
             <FromLocation value='0.356772,0.852053,1.248563'/>
             <ToLocation value='0.387620,0.861830,1.249214'/>
             <MaxDiameter value='0.000000'/>
-            <Diameter value='0.002000'/>
+            <Diameter value='0.001500'/>
             <Comment value='No Comments'/>
             <Coverings value=''/>
         </properties>
@@ -52,7 +52,7 @@
             <FromLocation value='0.356772,0.875652,1.249215'/>
             <ToLocation value='0.387620,0.861830,1.249214'/>
             <MaxDiameter value='0.000000'/>
-            <Diameter value='0.002000'/>
+            <Diameter value='0.001500'/>
             <Comment value='No Comments'/>
             <Coverings value=''/>
         </properties>
@@ -71,7 +71,7 @@
             <FromLocation value='0.723872,0.860748,1.249176'/>
             <ToLocation value='0.711916,0.858168,1.249176'/>
             <MaxDiameter value='0.000000'/>
-            <Diameter value='0.002000'/>
+            <Diameter value='0.001500'/>
             <Comment value='No Comments'/>
             <Coverings value=''/>
         </properties>
@@ -90,7 +90,7 @@
             <FromLocation value='0.387620,0.861830,1.249214'/>
             <ToLocation value='0.711916,0.858168,1.249176'/>
             <MaxDiameter value='0.000000'/>
-            <Diameter value='0.004000'/>
+            <Diameter value='0.003000'/>
             <Comment value='No Comments'/>
             <Coverings value=''/>
         </properties>
