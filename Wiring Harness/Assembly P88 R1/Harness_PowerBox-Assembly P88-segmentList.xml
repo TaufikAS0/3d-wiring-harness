@@ -57,44 +57,6 @@
             <Coverings value=''/>
         </properties>
     </segment>
-    <segment ID='6'>
-        <properties>
-            <Name value='12V@039012020 Molex Female 2P-1@Harness_PowerBox-Assembly P88:JP15@Harness_PowerBox-Assembly P88'/>
-            <FromCompID value='0'/>
-            <ToCompID value='0'/>
-            <FromConnectionPoint value='1'/>
-            <ToConnectionPoint value=''/>
-            <FromComponentRef value=''/>
-            <ToComponentRef value='JP15'/>
-            <Length value='0.009649'/>
-            <AdditionalLength value='0.014649'/>
-            <FromLocation value='1.816976,0.612777,1.715372'/>
-            <ToLocation value='1.821978,0.610710,1.723140'/>
-            <MaxDiameter value='0.000000'/>
-            <Diameter value='0.002000'/>
-            <Comment value='No Comments'/>
-            <Coverings value=''/>
-        </properties>
-    </segment>
-    <segment ID='7'>
-        <properties>
-            <Name value='0V@039012020 Molex Female 2P-1@Harness_PowerBox-Assembly P88:JP15@Harness_PowerBox-Assembly P88'/>
-            <FromCompID value='0'/>
-            <ToCompID value='0'/>
-            <FromConnectionPoint value='2'/>
-            <ToConnectionPoint value=''/>
-            <FromComponentRef value=''/>
-            <ToComponentRef value='JP15'/>
-            <Length value='0.009741'/>
-            <AdditionalLength value='0.014741'/>
-            <FromLocation value='1.816976,0.608577,1.715372'/>
-            <ToLocation value='1.821978,0.610710,1.723140'/>
-            <MaxDiameter value='0.000000'/>
-            <Diameter value='0.002000'/>
-            <Comment value='No Comments'/>
-            <Coverings value=''/>
-        </properties>
-    </segment>
     <segment ID='8'>
         <properties>
             <Name value='CPoint1@Box Power Assembly-1@Harness_PowerBox-Assembly P88/electric_component-1@Box Power Assembly:JP17@Harness_PowerBox-Assembly P88'/>
@@ -135,19 +97,19 @@
     </segment>
     <segment ID='11'>
         <properties>
-            <Name value='CPoint1@Box Power Assembly-1@Harness_PowerBox-Assembly P88/cable gland PG7-2@Box Power Assembly:JP15@Harness_PowerBox-Assembly P88'/>
+            <Name value='CPoint1@Box Power Assembly-1@Harness_PowerBox-Assembly P88/cable gland PG7-2@Box Power Assembly:JP25@Harness_PowerBox-Assembly P88'/>
             <FromCompID value='0'/>
             <ToCompID value='0'/>
             <FromConnectionPoint value='1'/>
             <ToConnectionPoint value=''/>
             <FromComponentRef value=''/>
-            <ToComponentRef value='JP15'/>
-            <Length value='0.261369'/>
-            <AdditionalLength value='0.266369'/>
+            <ToComponentRef value='JP25'/>
+            <Length value='0.272643'/>
+            <AdditionalLength value='0.277643'/>
             <FromLocation value='1.834443,0.518063,1.938091'/>
-            <ToLocation value='1.821978,0.610710,1.723140'/>
+            <ToLocation value='1.807096,0.411969,1.712663'/>
             <MaxDiameter value='0.000000'/>
-            <Diameter value='0.004000'/>
+            <Diameter value='0.003000'/>
             <Comment value='No Comments'/>
             <Coverings value=''/>
         </properties>
@@ -205,6 +167,44 @@
             <ToLocation value='1.875053,0.313862,1.640548'/>
             <MaxDiameter value='0.000000'/>
             <Diameter value='0.008000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='15'>
+        <properties>
+            <Name value='0V@039012020 Molex Female 2P-1@Harness_PowerBox-Assembly P88:JP25@Harness_PowerBox-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP25'/>
+            <Length value='0.009448'/>
+            <AdditionalLength value='0.014448'/>
+            <FromLocation value='1.814246,0.408614,1.709445'/>
+            <ToLocation value='1.807096,0.411969,1.712663'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001500'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='16'>
+        <properties>
+            <Name value='12V@039012020 Molex Female 2P-1@Harness_PowerBox-Assembly P88:JP25@Harness_PowerBox-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP25'/>
+            <Length value='0.007974'/>
+            <AdditionalLength value='0.012974'/>
+            <FromLocation value='1.814246,0.412814,1.709445'/>
+            <ToLocation value='1.807096,0.411969,1.712663'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001500'/>
             <Comment value='No Comments'/>
             <Coverings value=''/>
         </properties>
