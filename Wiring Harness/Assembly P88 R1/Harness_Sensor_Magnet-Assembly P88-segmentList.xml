@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='3'>
+        <properties>
+            <Name value='DO@039014036 Molex Male 3P Putih-1@Harness_Sensor_Magnet-Assembly P88:JP20@Harness_Sensor_Magnet-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP20'/>
+            <Length value='0.018197'/>
+            <AdditionalLength value='0.023197'/>
+            <FromLocation value='1.825601,1.628093,2.007252'/>
+            <ToLocation value='1.841269,1.627540,2.002482'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='5'>
+        <properties>
+            <Name value='CPoint1@ring_term_awg-14-16_awg-x 8-4@Harness_Sensor_Magnet-Assembly P88:JP8@Harness_Sensor_Magnet-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP17'/>
+            <Length value='0.030764'/>
+            <AdditionalLength value='0.040764'/>
+            <FromLocation value='1.845194,1.623512,1.969286'/>
+            <ToLocation value='1.859964,1.635152,1.990006'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='7'>
+        <properties>
+            <Name value='12V@039014036 Molex Male 3P Putih-1@Harness_Sensor_Magnet-Assembly P88:JP20@Harness_Sensor_Magnet-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP20'/>
+            <Length value='0.017250'/>
+            <AdditionalLength value='0.022250'/>
+            <FromLocation value='1.825601,1.628093,1.998852'/>
+            <ToLocation value='1.841269,1.627540,2.002482'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='8'>
+        <properties>
+            <Name value='CPoint1@ring_term_awg-14-16_awg-x 8-3@Harness_Sensor_Magnet-Assembly P88:JP8@Harness_Sensor_Magnet-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP17'/>
+            <Length value='0.024631'/>
+            <AdditionalLength value='0.034631'/>
+            <FromLocation value='1.857481,1.623512,1.977890'/>
+            <ToLocation value='1.859964,1.635152,1.990006'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='9'>
+        <properties>
+            <Name value='JP20@Harness_Sensor_Magnet-Assembly P88:JP8@Harness_Sensor_Magnet-Assembly P88'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP17'/>
+            <ToComponentRef value='JP20'/>
+            <Length value='0.023983'/>
+            <AdditionalLength value='0.023983'/>
+            <FromLocation value='1.859964,1.635152,1.990006'/>
+            <ToLocation value='1.841269,1.627540,2.002482'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.003000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>

@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='4'>
+        <properties>
+            <Name value='A+@Amphenol LTW Circular Female 4P M12A-04BFFB-SL7001-1@Harness_1-Assembly Dynamic Harness P44:JP12@Harness_1-Assembly Dynamic Harness P44'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP12'/>
+            <Length value='0.013957'/>
+            <AdditionalLength value='0.018957'/>
+            <FromLocation value='0.708285,0.872201,1.291317'/>
+            <ToLocation value='0.721907,0.872380,1.289481'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='5'>
+        <properties>
+            <Name value='B-@Amphenol LTW Circular Female 4P M12A-04BFFB-SL7001-1@Harness_1-Assembly Dynamic Harness P44:JP12@Harness_1-Assembly Dynamic Harness P44'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP12'/>
+            <Length value='0.013897'/>
+            <AdditionalLength value='0.018897'/>
+            <FromLocation value='0.708285,0.872201,1.287817'/>
+            <ToLocation value='0.721907,0.872380,1.289481'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='6'>
+        <properties>
+            <Name value='0V@039012020 Molex Female 2P-1@Harness_1-Assembly Dynamic Harness P44:JP19@Harness_1-Assembly Dynamic Harness P44'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP19'/>
+            <Length value='0.009009'/>
+            <AdditionalLength value='0.014009'/>
+            <FromLocation value='0.688485,0.878234,1.317901'/>
+            <ToLocation value='0.697022,0.875993,1.318093'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001500'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='7'>
+        <properties>
+            <Name value='12V@039012020 Molex Female 2P-1@Harness_1-Assembly Dynamic Harness P44:JP19@Harness_1-Assembly Dynamic Harness P44'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP19'/>
+            <Length value='0.008975'/>
+            <AdditionalLength value='0.013975'/>
+            <FromLocation value='0.688485,0.874034,1.317901'/>
+            <ToLocation value='0.697022,0.875993,1.318093'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001500'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='8'>
+        <properties>
+            <Name value='A+@Amphenol LTW Circular Male 4P M12A-04BMMB-SL7002-1@Harness_1-Assembly Dynamic Harness P44:JP13@Harness_1-Assembly Dynamic Harness P44'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='4'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP13'/>
+            <Length value='0.009972'/>
+            <AdditionalLength value='0.014972'/>
+            <FromLocation value='1.825163,0.872201,1.291317'/>
+            <ToLocation value='1.815662,0.869826,1.291666'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='10'>
+        <properties>
+            <Name value='IN PWR@0039013023 Molex Male 2P-1@Harness_1-Assembly Dynamic Harness P44:JP22@Harness_1-Assembly Dynamic Harness P44'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP22'/>
+            <Length value='0.014851'/>
+            <AdditionalLength value='0.019851'/>
+            <FromLocation value='1.857372,0.877002,1.309723'/>
+            <ToLocation value='1.842674,0.875764,1.310523'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001500'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='11'>
+        <properties>
+            <Name value='GND@0039013023 Molex Male 2P-1@Harness_1-Assembly Dynamic Harness P44:JP22@Harness_1-Assembly Dynamic Harness P44'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP22'/>
+            <Length value='0.015332'/>
+            <AdditionalLength value='0.020332'/>
+            <FromLocation value='1.857372,0.872902,1.309723'/>
+            <ToLocation value='1.842674,0.875764,1.310523'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001500'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='12'>
+        <properties>
+            <Name value='B-@Amphenol LTW Circular Male 4P M12A-04BMMB-SL7002-1@Harness_1-Assembly Dynamic Harness P44:JP13@Harness_1-Assembly Dynamic Harness P44'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP13'/>
+            <Length value='0.009681'/>
+            <AdditionalLength value='0.014681'/>
+            <FromLocation value='1.825163,0.868701,1.291317'/>
+            <ToLocation value='1.815662,0.869826,1.291666'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='13'>
+        <properties>
+            <Name value='JP13@Harness_1-Assembly Dynamic Harness P44:JP16@Harness_1-Assembly Dynamic Harness P44'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP16'/>
+            <ToComponentRef value='JP13'/>
+            <Length value='0.015985'/>
+            <AdditionalLength value='0.015985'/>
+            <FromLocation value='1.799879,0.871974,1.291970'/>
+            <ToLocation value='1.815662,0.869826,1.291666'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='14'>
+        <properties>
+            <Name value='JP12@Harness_1-Assembly Dynamic Harness P44:JP17@Harness_1-Assembly Dynamic Harness P44'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP12'/>
+            <ToComponentRef value='JP17'/>
+            <Length value='0.009063'/>
+            <AdditionalLength value='0.009063'/>
+            <FromLocation value='0.721907,0.872380,1.289481'/>
+            <ToLocation value='0.730970,0.872387,1.289567'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='15'>
+        <properties>
+            <Name value='JP16@Harness_1-Assembly Dynamic Harness P44:JP17@Harness_1-Assembly Dynamic Harness P44'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP17'/>
+            <ToComponentRef value='JP16'/>
+            <Length value='1.068916'/>
+            <AdditionalLength value='1.068916'/>
+            <FromLocation value='0.730970,0.872387,1.289567'/>
+            <ToLocation value='1.799879,0.871974,1.291970'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.007000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='16'>
+        <properties>
+            <Name value='JP17@Harness_1-Assembly Dynamic Harness P44:JP19@Harness_1-Assembly Dynamic Harness P44'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP19'/>
+            <ToComponentRef value='JP17'/>
+            <Length value='0.047928'/>
+            <AdditionalLength value='0.047928'/>
+            <FromLocation value='0.697022,0.875993,1.318093'/>
+            <ToLocation value='0.730970,0.872387,1.289567'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.003000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='17'>
+        <properties>
+            <Name value='JP16@Harness_1-Assembly Dynamic Harness P44:JP22@Harness_1-Assembly Dynamic Harness P44'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP22'/>
+            <ToComponentRef value='JP16'/>
+            <Length value='0.047331'/>
+            <AdditionalLength value='0.047331'/>
+            <FromLocation value='1.842674,0.875764,1.310523'/>
+            <ToLocation value='1.799879,0.871974,1.291970'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.003000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>
